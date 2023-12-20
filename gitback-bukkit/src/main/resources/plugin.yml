@@ -1,0 +1,4 @@
+name: gitback-bukkit
+version: '${project.version}'
+main: de.tomino.gitbackbukkit.Gitback_bukkit
+api-version: '1.20'
